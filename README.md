@@ -1,4 +1,4 @@
-<h1 align="center">WEEK 6 Address Book Application</h1>
+<h1 align="center">WEEK 4 Address Book Application</h1>
 
 <h1 align="center">Database Connectivity</h1>
 
