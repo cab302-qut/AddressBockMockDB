@@ -20,7 +20,7 @@ AIM: Create an Address Book Application with a Mock Database for CRUD Operations
 3. HelloController - Logic for initial screen events
 4. IContactDAO - Interface for Contact Data Access Object - Handles CRUD (Create, Read, Update, Delete operations)
 5. MainController - Logic for controlling the data displayed on the view - Connects model (data) and views
-6. MockContactDAO - Creates a Mock Database using the same interface as the class that will control database operations - This Mock could be useful for unit testing (**Only it implements same interface as class responsible for database logic)
+6. MockContactDAO - Creates a Mock Database using the same interface as the class that will control database operations - This class could be useful for unit testing (**Only it implements same interface as class responsible for database logic**)
 
 
 ## Activity 1
